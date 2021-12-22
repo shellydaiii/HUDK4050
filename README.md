@@ -55,4 +55,4 @@ Privacy issues and ethical concerns in EDM
 Creative Analysis Assignment
 ### week15 
 Closing Remarks and Final Presentation Presentation  
-Reflection + Portfolio
+[Reflection](https://github.com/shellydaiii/HUDK4050/blob/main/HUDK%204050%20Reflection%20Essay.pdf) + Portfolio
