@@ -18,35 +18,35 @@ Syllabus, Icebreaking, and Warm Up
 Introduction to the EDM 
 ### week3
 Data Sources and Manipulation1  
-Coding exercise1
+[Coding exercise1](https://github.com/shellydaiii/HUDK4050/blob/main/ICE1_Tianyi%20DAI.ipynb) 
 ### week4 
 Data Sources and Manipulation2  
-Coding exercise2
+[Coding exercise2](https://github.com/shellydaiii/HUDK4050/blob/main/ICE2_Tianyi%20DAI.ipynb)
 ### week5 
 Regression in Prediction  
-Coding exercise3  
-Analysis Challenge Assignment1
+[Coding exercise3](https://github.com/shellydaiii/HUDK4050/blob/main/ICE3_Tianyi%20DAI.ipynb)  
+[Analysis Challenge Assignment1](https://github.com/shellydaiii/HUDK4050/blob/main/ACA1_Tianyi%20DAI.html) (For this ACA, I only find html file in my computer)
 ### week6
 Classification  
-Coding exercise 4
+[Coding exercise 4](https://github.com/shellydaiii/HUDK4050/blob/main/ICE4_Tianyi%20DAI.ipynb)
 ### week7 
 Clustering 
-Coding exercise 5  
-Analysis Challenge Assignment 2
+[Coding exercise 5](https://github.com/shellydaiii/HUDK4050/blob/main/ICE5%20Tianyi%20DAI.ipynb)  
+[Analysis Challenge Assignment 2](https://github.com/shellydaiii/HUDK4050/blob/main/ACA2%20Tianyi%20DAI.ipynb)
 ### week8 
 Principal Component Analysis  
-Coding exercise 6
+[Coding exercise 6](https://github.com/shellydaiii/HUDK4050/blob/main/ICE6_Tianyi%20Dai.ipynb)
 ### week9 
-Analysis Challenge Assignment 3
+[Analysis Challenge Assignment 3](https://github.com/shellydaiii/HUDK4050/blob/main/ACA3%20Tianyi%20DAI.ipynb)
 ### week10 
 Diagnostic Metrics  
-Coding exercise 7
+[Coding exercise 7](https://github.com/shellydaiii/HUDK4050/blob/main/ICE7_Tianyi%20Dai.ipynb)
 ### week11 
 Social Network Analysis  
-Coding exercise 8
+[Coding exercise 8](https://github.com/shellydaiii/HUDK4050/blob/main/ICE8_Tianyi%20Dai.ipynb)
 ### week12 
 Correlation/Association Mining  
-Analysis Challenge Assignment 4
+[Analysis Challenge Assignment 4](https://github.com/shellydaiii/HUDK4050/blob/main/ACA4_Tianyi%20Dai.ipynb)
 ### week13 
 Behavior/Affect Detection  
 Data visualization
